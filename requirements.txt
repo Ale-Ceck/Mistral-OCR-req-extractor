@@ -1,0 +1,4 @@
+mistralai
+pillow
+ipython
+dotenv
